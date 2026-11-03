@@ -1,0 +1,17 @@
+
+# Archivos de Python generados automáticamente
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Configuración personal de Visual Studio Code
+.vscode/
+
+# Variables de entorno y posibles secretos
+.env
+.env.*
+!.env.example
